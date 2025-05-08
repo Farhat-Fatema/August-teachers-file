@@ -1,0 +1,9 @@
+var userInput = document.getElementByID("....).value; 
+
+
+  var url = `http://w.......com/${userInput}` ; 
+
+
+   fetch(url)
+   .then (...................)
+   .then(...............)

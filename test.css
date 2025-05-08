@@ -1,0 +1,14 @@
+.inner-style{
+    margin: 15px;
+    padding: 15px;
+    border: 2px solid orange;
+    background-color: bisque;
+    border-radius: 15px;
+}
+
+
+.outer-area{
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
